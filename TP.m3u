@@ -295,30 +295,43 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=196&format=HLS&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
-
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO LATINO
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
-
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine",HBO 2
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine",HBO Family
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
-
-#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png" group-title="Cine",HBO MUNDI
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
-
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png" group-title="Cine",HBO PLUS
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
-
-#EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png" group-title="Cine",HBO POP
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/954.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png" group-title="Cine",HBO SIGNATURE
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
-
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png" group-title="Cine",HBO XTREME
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
-
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg",HBO*
+https://blackghost.live/play/tlvall-617.php?c=558&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg",HBO+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=hbo&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg",HBO Reg
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboes&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2*
+https://blackghost.live/play/tlvall-617.php?c=559&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=hbo2&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2 Reg
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hbo2&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS*
+https://blackghost.live/play/tlvall-617.php?c=560&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=hboplus&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS Reg
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboplus&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family*
+https://blackghost.live/play/tlvall-617.php?c=561&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=hbofamily&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family Reg
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hbofamily&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png",HBO Signature*
+https://blackghost.live/play/tlvall-617.php?c=718&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png",HBO Signature+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=hbosignature&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png",HBO Signature Reg
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hbosignature&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme*
+https://blackghost.live/play/tlvall-617.php?c=723&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=maxprime&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme Reg
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboxtreme&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png",HBO Pop*
+https://blackghost.live/play/tlvall-617.php?c=717&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png",HBO Pop+
+https://blackghost.live/play/wistream-bglve-617.php?cat=latinos&ch=maxup&f=.m3u8
