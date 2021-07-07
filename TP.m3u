@@ -171,11 +171,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=146&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="CINEMA",STAR PREMIUM SERIES HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=139&format=HLS&f=.m3u8
-#EXTINF:-1,HBO LAM
+#EXTINF:-1 group-title="CINEMA",HBO LAM
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/15972
-#EXTINF:-1,HBO 2 LAM
+#EXTINF:-1 group-title="CINEMA",HBO 2 LAM
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/15971
-#EXTINF:-1,HBO Signature LAM
+#EXTINF:-1 group-title="CINEMA",HBO Signature LAM
 http://85.203.33.88:80/KHUgjZimAE/eeITVf3317/15970
 
 #EXTINF:-1 group-title="CINEMA",TNT HD
